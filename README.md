@@ -1,8 +1,8 @@
 # Javascript
 
-Repositorio de estudo com foco em dominar JavaScript do zero ao full stack.
-Cobre linguagem, front-end com DOM e React, e back-end com Node e Express.
-34 de 840 aulas · 5h36min de ~152h · em andamento
+- Repositorio de estudo com foco em dominar JavaScript do zero ao full stack.
+- Cobre linguagem, front-end com DOM e React, e back-end com Node e Express.
+- 840 aulas · 152h · em andamento
 
 ---
 
