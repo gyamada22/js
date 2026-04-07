@@ -10,76 +10,76 @@ Aprendizado progressivo de JavaScript do zero ao full stack.
 ### Fundamentos da Linguagem
 > Base da linguagem. Sem isso, nada mais funciona.
 
-- [x] Dados, Variaveis e Operacoes
-- [ ] Funcoes
-- [ ] Metodos
-- [ ] Estruturas Condicionais e de Repeticao
-- [ ] Consolidando os Fundamentos
+- [x] 1. Dados, Variaveis e Operacoes
+- [ ] 2. Funcoes
+- [ ] 3. Metodos
+- [ ] 4. Estruturas Condicionais e de Repeticao
+- [ ] 5. Consolidando os Fundamentos
 
 ---
 
 ### Front-end com JavaScript
 > Manipulacao do navegador, DOM e interatividade.
 
-- [ ] Desenvolvimento Web
-- [ ] DOM, Formularios e localStorage
-- [ ] Projeto: HashForms
-- [ ] Depuracao e Desenvolvimento Eficiente
-- [ ] Tratamento de Erro
+- [ ] 6. Desenvolvimento Web
+- [ ] 7. DOM, Formularios e localStorage
+- [ ] 8. Projeto: HashForms
+- [ ] 9. Depuracao e Desenvolvimento Eficiente
+- [ ] 10. Tratamento de Erro
 
 ---
 
 ### JavaScript Aprofundado
 > A linguagem de verdade — async, closures, imutabilidade e modulos.
 
-- [ ] Javascript Assincrono
-- [ ] Objetos
-- [ ] Funcoes: Uma segunda abordagem
-- [ ] Novos operadores e operacoes
-- [ ] Trabalhando com Imutabilidade
-- [ ] Modulos ES6
+- [ ] 11. Javascript Assincrono
+- [ ] 12. Objetos
+- [ ] 13. Funcoes: Uma segunda abordagem
+- [ ] 14. Novos operadores e operacoes
+- [ ] 15. Trabalhando com Imutabilidade
+- [ ] 16. Modulos ES6
 
 ---
 
 ### Orientacao a Objetos e Projetos
 > Arquitetura de codigo e aplicacao em projetos reais.
 
-- [ ] Programacao Orientada a Objetos
-- [ ] Projeto: Clinica Medica
-- [ ] Git e Github
-- [ ] Projeto: Gerenciador de Playlist de Filmes
-- [ ] Projeto: Calculadora de Investimentos
+- [ ] 17. Programacao Orientada a Objetos
+- [ ] 18. Projeto: Clinica Medica
+- [ ] 19. Git e Github
+- [ ] 20. Projeto: Gerenciador de Playlist de Filmes
+- [ ] 21. Projeto: Calculadora de Investimentos
 
 ---
 
 ### Back-end com Node.js
 > Servidor, APIs, middlewares e banco de dados.
 
-- [ ] Introducao ao Backend
-- [ ] NodeJS
-- [ ] Modulos do NodeJS
-- [ ] Eventos em NodeJS
-- [ ] Backend, Internet e APIs
-- [ ] Criando APIs com ExpressJS
-- [ ] Middlewares
-- [ ] Bancos de dados
-- [ ] Projeto Backend completo
+- [ ] 22. Introducao ao Backend
+- [ ] 23. NodeJS
+- [ ] 24. Modulos do NodeJS
+- [ ] 25. Eventos em NodeJS
+- [ ] 26. Backend, Internet e APIs
+- [ ] 27. Criando APIs com ExpressJS
+- [ ] 28. Middlewares
+- [ ] 29. Bancos de dados
+- [ ] 30. Projeto Backend completo
 
 ---
 
 ### React
 > Interfaces modernas com componentes, hooks e roteamento.
 
-- [ ] Introducao ao React
-- [ ] Fundamentos do React
-- [ ] Formularios em React
-- [ ] Projeto: To Do List com React
-- [ ] Fundamentos Avancados
-- [ ] Navegacao com React Router
-- [ ] Projeto: LoginRegister App
-- [ ] Hooks Avancados
-- [ ] Requisicoes HTTP e Integracao com API
-- [ ] Projeto: Front-End de um ECommerce
+- [ ] 31. Introducao ao React
+- [ ] 32. Fundamentos do React
+- [ ] 33. Formularios em React
+- [ ] 34. Projeto: To Do List com React
+- [ ] 35. Fundamentos Avancados
+- [ ] 36. Navegacao com React Router
+- [ ] 37. Projeto: LoginRegister App
+- [ ] 38. Hooks Avancados
+- [ ] 39. Requisicoes HTTP e Integracao com API
+- [ ] 40. Projeto: Front-End de um ECommerce
 
 ---
 
