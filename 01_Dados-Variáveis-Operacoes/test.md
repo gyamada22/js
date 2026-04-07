@@ -1,6 +1,10 @@
 # JavaScript — Modulo 1: Dados, Variaveis e Operacoes
 
-> 34 aulas · 5h36min · concluido
+## Status: CONCLUIDO
+
+- **Aulas:** 34/34
+- **Duracao Total:** 5h36min
+- **Progresso:** 100%
 
 ---
 
