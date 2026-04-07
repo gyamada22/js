@@ -102,4 +102,3 @@ javascript/
 Os arquivos de cada modulo seguem o mesmo padrao:
 
 - `README.md` — conceitos abordados com exemplos de codigo
-- `exercicios/` — resolucao dos exercicios propostos
