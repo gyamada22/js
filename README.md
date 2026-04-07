@@ -9,7 +9,7 @@
 ## Trilha
 
 ### Fundamentos da Linguagem
-> Base da linguagem. Sem isso, nada mais funciona.
+> Base da linguagem.
 
 - [x] 1. Dados, Variaveis e Operacoes
 - [ ] 2. Funcoes
