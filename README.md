@@ -13,8 +13,8 @@
 
 - [x] 1. Dados, Variaveis e Operacoes
 - [x] 2. Funcoes
-- [ ] 3. Metodos
-- [ ] 4. Estruturas Condicionais e de Repeticao
+- [x] 3. Metodos
+- [x] 4. Estruturas Condicionais e de Repeticao
 - [ ] 5. Consolidando os Fundamentos
 
 ---
