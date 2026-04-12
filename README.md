@@ -15,7 +15,7 @@
 - [x] 2. Funcoes
 - [x] 3. Metodos
 - [x] 4. Estruturas Condicionais e de Repeticao
-- [ ] 5. Consolidando os Fundamentos
+- [x] 5. Consolidando os Fundamentos
 
 ---
 
