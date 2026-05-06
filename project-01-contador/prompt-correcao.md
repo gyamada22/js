@@ -92,4 +92,3 @@ export function Botao({ valor, Inc, Dec, Zero, min, max }) {
 
 **Meu código:**
 
-[cole seu App.jsx e Botao.jsx aqui]
