@@ -5,11 +5,8 @@
 - Exibir um número na tela que começa em `0`
 - Ter 3 botões: **Adicionar**, **Diminuir** e **Zerar**
 - O contador tem limite mínimo `0` e máximo `10`
-- O botão Adicionar fica desabilitado quando chegar em `10`
-- O botão Diminuir fica desabilitado quando chegar em `0`
-- O botão Zerar fica desabilitado quando o valor já for `0`
-- Exibir a mensagem *"Limite máximo atingido"* quando chegar em `10`
-- Exibir a mensagem *"Limite mínimo atingido"* quando chegar em `0`
+- O botão fica desabilitado quando chegar em `10` e `0`
+- Exibir a mensagem *"Limite máximo/mínimo atingido"* quando chegar em `10` e `0`
 
 ## Restrições
 
