@@ -1,5 +1,3 @@
-import React from "react";
-
 export function Botao({ valor, Inc, Dec, Zero, min, max }) {
   return (
     <>
