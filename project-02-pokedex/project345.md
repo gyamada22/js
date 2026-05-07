@@ -1,3 +1,22 @@
+Projeto 1 — Contador
+  useState, props, disabled, renderização condicional
+  
+Projeto 2 — Lista simples      ← você está aqui
+  useState com arrays, add/remove, .map(), .filter()
+  ZERO coisa nova de API ou useEffect
+
+Projeto 3 — Cronômetro
+  useEffect com setInterval, cleanup, useRef
+  sem API, sem fetch
+
+Projeto 4 — Buscador de CEP
+  useEffect com fetch, async/await, loading, erro
+  API simples, só um campo, um botão
+
+Projeto 5 — Pokemon
+  tudo do 4 + navegação com dependência no useEffect
+
+
 Projetos 3, 4 e 5
 Projeto 3 — Cronômetro
 Inicia, pausa e reseta um timer que conta segundos. Usa useRef pra guardar o setInterval sem causar re-render, e useState pra exibir o tempo na tela. Ensina a diferença entre ref e estado — quando usar cada um.
